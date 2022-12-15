@@ -61,7 +61,17 @@ section{
 }
 
 p {
-    font-size: 20px;
+    font-size: 1.5em;
+    padding: 10px;
+    margin: 10px auto;
+    text-align: justify;
+  }
+
+  .p1{
+    text-align: center;
+    line-height: 5.5px;
+
+
   }
 
 
@@ -519,12 +529,12 @@ a {
     border-bottom: 1px solid green;
 }
 
-}
 .address {
-    font-size: 11px;
+    font-size: 15px;
 
 }
 
 .address1{
     font-size: 15px;
+    margin-bottom: -30px;
 }
