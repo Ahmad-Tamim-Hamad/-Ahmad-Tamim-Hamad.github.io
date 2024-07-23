@@ -90,7 +90,7 @@ p {
 .custom-margin {
     font-size: 2em;
     padding: 10px;
-    margin: 10px 150px; /* Adds 10px margin to top and bottom, and 20px margin to left and right */
+    margin: 10px 50px; /* Adds 10px margin to top and bottom, and 20px margin to left and right */
     text-align: justify;
 }
 
@@ -431,7 +431,7 @@ p {
     padding-top: 2rem;
 }
 
-.about .row .progress{
+.about .row .progress.{
     flex:1 1 40rem;
 }
 
