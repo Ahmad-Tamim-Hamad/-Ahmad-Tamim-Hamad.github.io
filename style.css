@@ -684,3 +684,12 @@ a {
     font-size: 15px;
     margin-bottom: -30px;
 }
+
+
+body.active p,
+body.active .custom-margin,
+body.active .home .content p,
+body.active .services ul li,
+body.active .portfolio ul li {
+    color: #fff;
+}
