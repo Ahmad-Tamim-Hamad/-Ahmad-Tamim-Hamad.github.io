@@ -431,7 +431,7 @@ p {
     padding-top: 2rem;
 }
 
-.about .row .progress.{
+.about .row .progress{
     flex:1 1 40rem;
 }
 
